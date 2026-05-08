@@ -1,21 +1,23 @@
-# Multi-Branch Recruitment & Applicant Tracking System (ATS)
+# Multi-Branch Recruitment & Applicant Tracking System
 
-**BSCS Web Development Semester Project**  
-A professional full-stack web application for managing recruitment processes across multiple office branches.
+**Web Development Semester Project - BSCS 6F**
 
-## 🚀 Live Demo
-- Frontend: [Your Vercel URL - Update after deployment]
-- Backend: [Your Render URL - Update after deployment]
-- GitHub: [Your GitHub Repository URL]
+## Project Information
+- **Student Name:** Hussain Nawaz
+- **Roll Number:** 23f-0845
+- **Course:** Web Development
+- **Project Type:** Full-Stack MERN Application
 
-## 👥 Developed By
-**Hussain Nawaz**  
-Roll Number: 23f-0845  
-BSCS 6F - Web Development Project
+## Live Demo
+- Frontend: [Will be updated after deployment]
+- Backend: [Will be updated after deployment]
 
-See [TEAM_INFO.md](TEAM_INFO.md) for detailed contributions.
+---
 
-## 📋 Features
+## Overview
+A complete recruitment management system for handling job postings, applications, and interviews across multiple office branches (Islamabad, Lahore, Karachi, Remote).
+
+## Features
 
 ### For Candidates
 - Browse available jobs by branch and department
@@ -324,14 +326,61 @@ git push -u origin main
 - Enable "Less secure app access" if using older Gmail
 - Check GMAIL_USER and GMAIL_PASS are correct
 
-## 📝 License
+## Database Schema
 
-This project is for educational purposes (BSCS Web Development Project).
+See [ER_DIAGRAM.md](ER_DIAGRAM.md) for complete database structure and relationships.
 
-## 👨‍💻 Authors
+**Collections:**
+- Users (candidates, HR, admin)
+- Jobs (job postings)
+- Branches (Islamabad, Lahore, Karachi, Remote)
+- Applications (job applications with status tracking)
+- Interviews (scheduled interviews)
 
-[Your Group Names and Roll Numbers]
+## API Endpoints
+
+**Authentication:**
+- POST `/api/auth/register` - Register user
+- POST `/api/auth/login` - Login
+- GET `/api/auth/profile` - Get profile
+- PUT `/api/auth/profile` - Update profile
+- POST `/api/auth/upload-resume` - Upload resume
+- POST `/api/auth/upload-cover-letter` - Upload cover letter
+
+**Jobs:**
+- GET `/api/jobs` - Get all jobs (public)
+- GET `/api/jobs/:id` - Get job details
+- POST `/api/jobs` - Create job (HR only)
+- PUT `/api/jobs/:id` - Update job (HR only)
+- DELETE `/api/jobs/:id` - Delete job (HR only)
+
+**Applications:**
+- POST `/api/applications` - Apply for job
+- GET `/api/applications/my-applications` - Get user applications
+- GET `/api/applications` - Get all applications (HR only)
+- PUT `/api/applications/:id/status` - Update status (HR only)
+
+**Interviews:**
+- POST `/api/interviews` - Schedule interview (HR only)
+- GET `/api/interviews` - Get interviews
+- PUT `/api/interviews/:id` - Update interview (HR only)
+
+**Branches:**
+- GET `/api/branches` - Get all branches
+- POST `/api/branches` - Create branch (HR only)
+
+## Project Stats
+- Lines of Code: ~4,500+
+- API Endpoints: 25+
+- Database Models: 5
+- React Components: 9+
+- Features: 15+ major features
+
+## Author
+**Hussain Nawaz**  
+Roll No: 23f-0845  
+BSCS 6F
 
 ---
 
-**Note:** Remember to never commit your `.env` files to GitHub! They are already in `.gitignore`.
+**Note:** This is a student project for Web Development course. Never commit `.env` files with real credentials to GitHub.
