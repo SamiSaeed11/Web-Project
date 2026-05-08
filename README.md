@@ -1,10 +1,15 @@
 # Multi-Branch Recruitment & Applicant Tracking System (ATS)
 
-A complete full-stack web application for managing job recruitment across multiple branches.
+**BSCS Web Development Semester Project**  
+A professional full-stack web application for managing recruitment processes across multiple office branches.
 
 ## 🚀 Live Demo
-- Frontend: [Your Vercel URL]
-- Backend: [Your Render URL]
+- Frontend: [Your Vercel URL - Update after deployment]
+- Backend: [Your Render URL - Update after deployment]
+- GitHub: [Your GitHub Repository URL]
+
+## 👥 Team Members
+See [TEAM_INFO.md](TEAM_INFO.md) for complete team details and individual contributions.
 
 ## 📋 Features
 

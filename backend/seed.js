@@ -55,7 +55,7 @@ const seedData = async () => {
     const hr = await User.create({
       name: 'HR Manager',
       email: 'hr@ats.com',
-      password: 'hr123',
+      password: 'hr123456',
       role: 'hr',
       phone: '+92-300-0000002',
     });
