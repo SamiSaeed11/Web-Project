@@ -78,9 +78,9 @@ const Login = () => {
 
         <div style={{ marginTop: '20px', padding: '15px', background: '#f3f4f6', borderRadius: '6px' }}>
           <p style={{ fontSize: '14px', marginBottom: '10px', fontWeight: 'bold' }}>Test Accounts:</p>
-          <p style={{ fontSize: '13px', margin: '5px 0' }}>Admin: admin@ats.com / admin123</p>
-          <p style={{ fontSize: '13px', margin: '5px 0' }}>HR: hr@ats.com / hr123</p>
-          <p style={{ fontSize: '13px', margin: '5px 0' }}>Candidate: candidate@example.com / candidate123</p>
+          <p style={{ fontSize: '13px', margin: '5px 0' }}>Admin: sami@ats.com / sami123456</p>
+          <p style={{ fontSize: '13px', margin: '5px 0' }}>HR: afifah@ats.com / afifah123456</p>
+          <p style={{ fontSize: '13px', margin: '5px 0' }}>Candidate: husain@ats.com / husain123456</p>
         </div>
       </div>
     </div>

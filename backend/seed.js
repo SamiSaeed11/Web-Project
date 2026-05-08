@@ -44,27 +44,27 @@ const seedData = async () => {
 
     // Create admin user
     const admin = await User.create({
-      name: 'Admin User',
-      email: 'admin@ats.com',
-      password: 'admin123',
+      name: 'Sami',
+      email: 'sami@ats.com',
+      password: 'sami123456',
       role: 'admin',
       phone: '+92-300-0000001',
     });
 
     // Create HR user
     const hr = await User.create({
-      name: 'HR Manager',
-      email: 'hr@ats.com',
-      password: 'hr123456',
+      name: 'Afifah',
+      email: 'afifah@ats.com',
+      password: 'afifah123456',
       role: 'hr',
       phone: '+92-300-0000002',
     });
 
     // Create candidate user
     const candidate = await User.create({
-      name: 'John Doe',
-      email: 'candidate@example.com',
-      password: 'candidate123',
+      name: 'Husain',
+      email: 'husain@ats.com',
+      password: 'husain123456',
       role: 'candidate',
       phone: '+92-300-0000003',
       skills: ['JavaScript', 'React', 'Node.js'],
@@ -74,9 +74,9 @@ const seedData = async () => {
 
     console.log('Data seeded successfully!');
     console.log('\n--- Login Credentials ---');
-    console.log('Admin: admin@ats.com / admin123');
-    console.log('HR: hr@ats.com / hr123');
-    console.log('Candidate: candidate@example.com / candidate123');
+    console.log('Admin: sami@ats.com / sami123456');
+    console.log('HR: afifah@ats.com / afifah123456');
+    console.log('Candidate: husain@ats.com / husain123456');
     console.log('\nBranches created:', branches.length);
 
     process.exit();

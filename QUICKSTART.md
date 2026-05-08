@@ -107,11 +107,11 @@ For HR features, login with:
 
 ## Test Accounts
 
-| Role | Email | Password |
-|------|-------|----------|
-| Admin | admin@ats.com | admin123 |
-| HR | hr@ats.com | hr123 |
-| Candidate | candidate@example.com | candidate123 |
+| Role | Name | Email | Password |
+|------|------|-------|----------|
+| Admin | Sami | sami@ats.com | sami123456 |
+| HR | Afifah | afifah@ats.com | afifah123456 |
+| Candidate | Husain | husain@ats.com | husain123456 |
 
 ---
 

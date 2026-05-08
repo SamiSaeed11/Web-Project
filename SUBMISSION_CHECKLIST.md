@@ -87,8 +87,9 @@ When uploading to submission portal:
 2. Add deployment URLs (if deployed)
 3. Add team member details
 4. Include test account credentials:
-   - HR: hr@ats.com / hr123456
-   - Candidate: candidate@example.com / candidate123
+   - Admin: sami@ats.com / sami123456
+   - HR: afifah@ats.com / afifah123456
+   - Candidate: husain@ats.com / husain123456
 
 ---
 

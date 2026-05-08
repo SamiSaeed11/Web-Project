@@ -33,9 +33,9 @@
 
 🔑 TEST ACCOUNTS (Already Created):
 ------------------------------------
-Admin:     admin@ats.com / admin123
-HR:        hr@ats.com / hr123456
-Candidate: candidate@example.com / candidate123
+Admin:     Sami    - sami@ats.com / sami123456
+HR:        Afifah  - afifah@ats.com / afifah123456
+Candidate: Husain  - husain@ats.com / husain123456
 
 ✅ FEATURES IMPLEMENTED:
 ------------------------
