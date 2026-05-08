@@ -8,8 +8,12 @@ A professional full-stack web application for managing recruitment processes acr
 - Backend: [Your Render URL - Update after deployment]
 - GitHub: [Your GitHub Repository URL]
 
-## 👥 Team Members
-See [TEAM_INFO.md](TEAM_INFO.md) for complete team details and individual contributions.
+## 👥 Developed By
+**Hussain Nawaz**  
+Roll Number: 23f-0845  
+BSCS 6F - Web Development Project
+
+See [TEAM_INFO.md](TEAM_INFO.md) for detailed contributions.
 
 ## 📋 Features
 

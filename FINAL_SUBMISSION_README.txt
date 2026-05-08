@@ -69,7 +69,7 @@ OPTION 1 (Recommended): Push to GitHub
 
 OPTION 2: ZIP File
 - DO NOT include node_modules folders
-- Name: ATS-Project-[YourRollNumber].zip
+- Name: ATS-Project-23f-0845-HussainNawaz.zip
 - Upload to submission portal
 
 ⚠️ CRITICAL REMINDERS:

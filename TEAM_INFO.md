@@ -5,52 +5,55 @@
 - **Course:** Web Development
 - **Section:** BSCS 6F & 8F
 
-## Team Members (Update with your information)
+## Team Members
 
-1. **[Your Name]**
-   - Roll Number: [Your Roll No]
-   - Email: [Your Email]
-   - GitHub: [Your GitHub Username]
-   - Contribution: Backend Development, Database Design
+1. **Hussain Nawaz**
+   - Roll Number: 23f-0845
+   - Email: hussainnawaz@example.com
+   - GitHub: [Will be updated]
+   - Contribution: Full-Stack Development, Project Lead
 
-2. **[Team Member 2 Name]**
+2. **[Team Member 2 Name]** (Update if you have team members)
    - Roll Number: [Roll No]
    - Email: [Email]
    - GitHub: [GitHub Username]
    - Contribution: Frontend Development, UI/UX Design
 
-3. **[Team Member 3 Name]**
+3. **[Team Member 3 Name]** (Update if you have team members)
    - Roll Number: [Roll No]
    - Email: [Email]
    - GitHub: [GitHub Username]
-   - Contribution: API Integration, Testing & Deployment
+   - Contribution: Testing & Documentation
 
 ---
 
 ## Individual Contributions
 
-### [Your Name]
-- Set up MongoDB Atlas database
-- Implemented authentication system with JWT
-- Created all backend models (User, Job, Branch, Application, Interview)
-- Developed REST API endpoints
+### Hussain Nawaz (23f-0845)
+**Full-Stack Development & Project Lead**
+- Set up complete project architecture (MERN stack)
+- Implemented MongoDB Atlas database with 5 models
+- Developed authentication system with JWT and bcrypt
+- Created all REST API endpoints (25+ routes)
 - Integrated Cloudinary for file uploads
-- Implemented email notification system
-
-### [Team Member 2]
-- Designed and implemented React components
-- Created responsive UI with CSS
-- Implemented React Router navigation
-- Developed dashboard interfaces
+- Implemented email notification system with Gmail SMTP
+- Designed and developed React frontend with 9+ components
+- Created responsive UI/UX with modern design
+- Implemented React Router navigation and protected routes
 - Integrated frontend with backend APIs
-
-### [Team Member 3]
-- Configured project deployment (Render + Vercel)
-- Implemented file upload functionality
-- Tested all features and fixed bugs
-- Created project documentation
+- Configured project deployment setup
+- Created comprehensive documentation
 - Set up GitHub repository and version control
+- Testing and debugging
+
+### [Team Member 2] (If applicable)
+- Support role or individual project
+- (Update this section if you have team members)
+
+### [Team Member 3] (If applicable)
+- Support role or individual project
+- (Update this section if you have team members)
 
 ---
 
-**Note:** All team members contributed equally to the project. Each member made individual commits to the GitHub repository as per project requirements.
+**Note:** This project was completed by Hussain Nawaz (23f-0845). All commits are made from his GitHub account as per project requirements.

@@ -3,9 +3,9 @@
 ## Before You Submit - Complete This Checklist
 
 ### 1. ✅ Team Information
-- [ ] Update `TEAM_INFO.md` with all team member names, roll numbers, and emails
-- [ ] Verify each team member's contribution section
-- [ ] Add GitHub usernames
+- [x] Updated `TEAM_INFO.md` with Hussain Nawaz (23f-0845)
+- [x] Verified contribution section
+- [ ] Add GitHub username after creating repository
 
 ### 2. ✅ GitHub Repository
 - [ ] Create GitHub repository (if not already done)
