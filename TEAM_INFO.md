@@ -3,7 +3,9 @@
 ## Group Information
 - **Project:** Multi-Branch Recruitment & Applicant Tracking System (ATS)
 - **Course:** Web Development
-- **Section:** BSCS 6F & 8F
+- **Section:** BSCS 6F
+- **Student:** Hussain Nawaz
+- **Roll Number:** 23f-0845
 
 ## Team Members
 
