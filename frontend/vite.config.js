@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api': {
-        target: 'https://spirited-rejoicing-production.up.railway.app',
+        target: 'https://web-project-production-98c9.up.railway.app',
         changeOrigin: true,
       },
     },
