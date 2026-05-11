@@ -1,8 +1,6 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-const API_TARGET = process.env.VITE_API_URL || 'http://localhost:5000';
-
 export default defineConfig({
   plugins: [react()],
   server: {
@@ -10,7 +8,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api': {
-        target: API_TARGET,
+        target: 'https://web-project-production-98c9.up.railway.app',
         changeOrigin: true,
       },
     },
