@@ -15,5 +15,8 @@
     "ats",
     "mern",
     "web-development"
-  ]
+  ],
+  "dependencies": {
+    "cors": "^2.8.6"
+  }
 }

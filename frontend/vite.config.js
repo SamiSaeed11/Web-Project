@@ -9,8 +9,14 @@ export default defineConfig({
     proxy: {
       '/api': {
         target: 'https://web-project-production-98c9.up.railway.app',
-        changeOrigin: true,
+        changeOrigin: true,      
       },
     },
   },
 });
+import cors from "cors";
+
+app.use(cors({
+  origin: "https://your-frontend.vercel.app",
+  credentials: true
+}));
